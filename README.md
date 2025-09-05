@@ -6,7 +6,7 @@ Let’s connect—or contemplate nothingness together.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ My Toolbox
 
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -18,7 +18,7 @@ Let’s connect—or contemplate nothingness together.
 
 ---
 
-## 🌐 Connect
+## 🌐 Let's Connect
 
 <a href="https://www.linkedin.com/in/muhammad-asim-133881328/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 <a href="https://leetcode.com/u/just_asim27/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" /></a>

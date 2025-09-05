@@ -1,7 +1,3 @@
-<h1 align="center">Hey, I'm Asim 👋</h1>
-
----
-
 ## 🧑‍💻 About Me
 
 Hey! I’m Asim, a computer science student on a journey through code and existential questions.<br>

@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1000" alt="Developer Workspace" width="100%" />
-</p>
-
 <h1 align="center">Hey, I'm Asim 👋</h1>
 
 ---

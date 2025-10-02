@@ -90,7 +90,7 @@ I often use <b>ChatGPT, Claude, and GitHub Copilot</b> as coding assistants for 
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=GitHub-Copilot&logoColor=white"/>
 </p>
 
-### <p align="center">📝 Code Editor</p>
+### <p align="center">📝 Code Editors</p>
 
 <p align="center"><i>
 My go-to editor is <b>Visual Studio Code</b> — I use it for nearly every project I build.  

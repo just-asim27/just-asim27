@@ -111,13 +111,13 @@ I’m always happy to connect with fellow developers, learners, and problem-solv
 </i></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-asim-133881328/">
+  <a href="https://www.linkedin.com/in/muhammad-asim-133881328/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/just_asim27/">
+  <a href="https://leetcode.com/u/just_asim27/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
   </a>
-  <a href="mailto:hafizmuhammadasimofficial@gmail.com">
+  <a href="mailto:hafizmuhammadasimofficial@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

@@ -22,13 +22,14 @@ I mainly code in <b>Java</b>, which I’ve used to build desktop applications an
 ### <p align="center">🌐 Web Technologies</p> 
 
 <p align="center"><i>
-I work with <b>HTML, CSS, and PHP</b> to create interactive and functional web applications.  
+I work with <b>HTML, CSS, and JavaScript</b>, along with <b>PHP</b>, to create interactive and functional web applications.  
 <br/>For me, web development is about connecting logic with creativity.  
 </i></p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/>
 </p>
 
